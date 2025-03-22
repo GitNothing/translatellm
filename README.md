@@ -1,7 +1,7 @@
 ### REMOTE INSTALL
 ### RECOMMENDED OS: ubuntu-24.04.2-live-server-amd64.iso
 ### PASTE THESE LINES IN THE TERMINAL
-### Access in your browser http://<ip>:8080
+### Access in your browser http://your_server_ip:8080
 
 sudo apt update;
 
