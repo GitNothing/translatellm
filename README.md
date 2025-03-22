@@ -1,8 +1,8 @@
 ### REMOTE INSTALL
 ### RECOMMENDED OS: ubuntu-24.04.2-live-server-amd64.iso
 ### Azure VM size recommended for small scale operations: D2s_v3 
-### PASTE THESE LINES IN THE TERMINAL
 ### Access in your browser http://your_server_ip:8080
+### PASTE THESE LINES IN THE TERMINAL
 
 sudo apt update;
 
