@@ -3,6 +3,7 @@
 #### RECOMMENDED AZURE SIZE FOR SMALL SCALE: D2s_v3 
 #### ACCESS FROM YOUR BROWSER AT: http://your_server_ip:8080
 ##### What is installed? unzip -> docker -> docker compose -> ollama with gemma3 -> open webui -> translatellm app
+#### Pull gemma3 model to verify installation before using translatellm
 ## PASTE THESE LINES IN THE TERMINAL
 
 ```bash
