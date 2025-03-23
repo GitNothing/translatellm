@@ -1,9 +1,10 @@
-### REMOTE INSTALL
-### RECOMMENDED OS: ubuntu-24.04.2-live-server-amd64.iso
-### Azure VM size recommended for small scale operations: D2s_v3 
-### Access in your browser http://your_server_ip:8080
-### PASTE THESE LINES IN THE TERMINAL
+# TRANSLATELLM REMOTE INSTALL
+#### RECOMMENDED OS: ubuntu-24.04.2-live-server-amd64.iso
+#### RECOMMENDED AZURE SIZE FOR SMALL SCALE: D2s_v3 
+#### ACCESS FROM YOUR BROWSER AT: http://your_server_ip:8080
+## PASTE THESE LINES IN THE TERMINAL
 
+```bash
 sudo apt update;
 
 sudo apt install -y unzip;
@@ -17,3 +18,4 @@ cd nodeapp;
 sudo chmod +x install.sh;
 
 sudo ./install.sh;
+```
